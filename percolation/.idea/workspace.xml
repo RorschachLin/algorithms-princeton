@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1e4f978-b3bd-4ae1-84e9-9e1170bce808" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.idea/" />
+    <ignored path="$PROJECT_DIR$/lift/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CheckStyle-IDEA-workspace">
+    <option name="configuration">
+      <map>
+        <entry key="last-active-plugin-version" value="5.22.1" />
+      </map>
+    </option>
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="DISPLAY_NOTIFICATION_POPUP" value="false" />
+    <option name="CLEAR_OUTPUT_DIRECTORY" value="false" />
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="autoscrollToSource" value="true" />
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1533046718">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="10" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.3" value="3" />
+          <entry key="project.open.time.4" value="7" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="15" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="CREDITS" value="1" />
+          <entry key="java" value="34" />
+          <entry key="png" value="24" />
+          <entry key="txt" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Image" value="24" />
+          <entry key="JAVA" value="34" />
+          <entry key="PLAIN_TEXT" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="6058" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="6058" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+    <option name="SCHEME" value="Project" />
+  </component>
+  <component name="FindBugs-IDEA-Workspace">
+    <analyzeAfterCompile>true</analyzeAfterCompile>
+    <toolWindowToFront>false</toolWindowToFront>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getLowerIndex</find>
+      <find>siteIndex</find>
+      <find>2 1</find>
+      <find>gridState[</find>
+      <find>isOpen(</find>
+      <find>validate</find>
+      <find>is not fulled and index =</find>
+      <find>interval</find>
+      <find>Math.sqrt</find>
+      <find>uniform</find>
+      <find>valueof(</find>
+      <find>PercolationStats</find>
+      <find>[</find>
+      <find>tostring(</find>
+      <find>confidenceLo</find>
+      <find>t</find>
+      <find>mean(</find>
+      <find>mean</find>
+      <find>System</find>
+      <find>System.</find>
+      <find>dimention</find>
+      <find>confidenc</find>
+      <find>IllegalArgumentExceptionIllegalArgumentException</find>
+      <find>IllegalArgumentException</find>
+      <find>percolationStats</find>
+      <find>gridState[index] = 2</find>
+      <find>System.out</find>
+      <find>tailRoot</find>
+      <find>w_Uf</find>
+      <find>union</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/InteractivePercolationVisualizer.java" />
+        <option value="$PROJECT_DIR$/Percolation.java" />
+        <option value="$PROJECT_DIR$/PercolationStats.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="105" />
+    <option name="y" value="20" />
+    <option name="width" value="940" />
+    <option name="height" value="765" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <showLibraryContents PackagesPane="false" />
+      <autoscrollToSource PackagesPane="true" ProjectPane="true" />
+      <autoscrollFromSource PackagesPane="true" ProjectPane="true" />
+      <sortByType Scope="true" PackagesPane="true" ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Percolation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="percolation" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-excluded-files" value="false" />
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="union&#9;FILE&#9;jar://D:/coursera/Algorithm_Princeton/sample_project/percolation/.lift/algs4.jar!/edu/princeton/cs/algs4/WeightedQuickUnionUF.java&#10;uniform&#9;PSI&#9;JAVA://edu.princeton.cs.algs4.StdRandom#uniform&#10;arrays&#9;PSI&#9;JAVA://java.util.Arrays&#10;stdout&#9;PSI&#9;JAVA://edu.princeton.cs.algs4.StdOut&#10;Array&#9;PSI&#9;JAVA://java.lang.invoke.VarHandleBytes.Array&#10;Integer&#9;PSI&#9;JAVA://java.lang.Integer&#10;stdin&#9;PSI&#9;JAVA://edu.princeton.cs.algs4.StdIn&#10;stds&#9;PSI&#9;JAVA://edu.princeton.cs.algs4.StdStats&#10;stopwatch&#9;PSI&#9;JAVA://edu.princeton.cs.algs4.Stopwatch&#10;WeightedQuickUnionUF&#9;PSI&#9;JAVA://edu.princeton.cs.algs4.WeightedQuickUnionUF&#10;PercolationVisualizer&#9;FILE&#9;file://D:/coursera/Algorithm_Princeton/sample_project/percolation/PercolationVisualizer.java&#10;filledSquare&#9;PSI&#9;JAVA://edu.princeton.cs.algs4.StdDraw#filledSquare" />
+    <property name="ToolWindowMessages.ShowToolbar" value="false" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.InteractivePercolationVisualizer">
+    <configuration name="InteractivePercolationVisualizer" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="InteractivePercolationVisualizer" />
+      <module name="Algorithms, Part I" />
+      <option name="PROGRAM_PARAMETERS" value="3" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Percolation" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Percolation" />
+      <module name="Algorithms, Part I" />
+      <option name="PROGRAM_PARAMETERS" value="2" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PercolationStats" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="PercolationStats" />
+      <module name="Algorithms, Part I" />
+      <option name="PROGRAM_PARAMETERS" value="2 100000" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PercolationVisualizer" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="PercolationVisualizer" />
+      <module name="Algorithms, Part I" />
+      <option name="PROGRAM_PARAMETERS" value="4" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.PercolationVisualizer" />
+      <item itemvalue="Application.Percolation" />
+      <item itemvalue="Application.InteractivePercolationVisualizer" />
+      <item itemvalue="Application.PercolationStats" />
+    </list>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09451421" />
+      <window_info id="Structure" order="1" show_stripe_button="false" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Favorites" order="3" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.35061392" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3792633" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" show_stripe_button="false" weight="0.32904148" />
+      <window_info anchor="bottom" id="CheckStyle" order="7" weight="0.3287858" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3287858" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3287858" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32742155" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="12" />
+      <window_info anchor="bottom" id="Problems" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09451421" />
+      <window_info id="Structure" order="1" show_stripe_button="false" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Favorites" order="3" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3287858" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" show_stripe_button="false" weight="0.32904148" />
+      <window_info anchor="bottom" id="CheckStyle" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3287858" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32742155" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/greeting57.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input1-no.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input2-no.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input7.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input20.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CREDITS">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input6.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input4.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input5.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/.lift/algs4.jar!/edu/princeton/cs/algs4/Stopwatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-138">
+          <caret line="49" column="38" lean-forward="true" selection-start-line="49" selection-start-column="38" selection-end-line="49" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="2010" selection-start-line="2010" selection-end-line="2010" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/lang/ThreadGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="1052" selection-start-line="1052" selection-end-line="1052" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/jdk/internal/loader/BuiltinClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="991">
+          <caret line="581" selection-start-line="581" selection-end-line="581" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/jdk/internal/loader/ClassLoaders.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="189" selection-start-line="189" selection-end-line="189" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/lang/ClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="498" selection-start-line="498" selection-end-line="498" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/.lift/algs4.jar!/edu/princeton/cs/algs4/StdIn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1750">
+          <caret line="212" column="26" lean-forward="true" selection-start-line="212" selection-start-column="26" selection-end-line="212" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/lang/invoke/VarHandleBooleans.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="506" column="25" lean-forward="true" selection-start-line="506" selection-start-column="25" selection-end-line="506" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/lang/invoke/VarHandleBytes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="547" column="23" selection-start-line="547" selection-start-column="23" selection-end-line="547" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="981" column="34" selection-start-line="981" selection-start-column="25" selection-end-line="981" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/.lift/algs4.jar!/edu/princeton/cs/algs4/StdOut.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6004">
+          <caret line="316" column="35" selection-start-line="316" selection-start-column="34" selection-end-line="316" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96292">
+          <caret line="5068" column="23" selection-start-line="5068" selection-start-column="23" selection-end-line="5068" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/.lift/algs4.jar!/edu/princeton/cs/algs4/StdRandom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3534">
+          <caret line="186" column="28" selection-start-line="186" selection-start-column="28" selection-end-line="186" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/.lift/algs4.jar!/edu/princeton/cs/algs4/StdDraw.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17081">
+          <caret line="899" selection-start-line="899" selection-end-line="899" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input6.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input8-dups.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input8.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input8-no.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input10.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input10-no.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/.lift/algs4.jar!/edu/princeton/cs/algs4/In.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="195" selection-start-line="195" selection-end-line="195" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heart25.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heart25.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PercolationStats.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="23" column="31" lean-forward="true" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/.lift/algs4.jar!/edu/princeton/cs/algs4/StdStats.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="670">
+          <caret line="180" column="30" selection-start-line="180" selection-start-column="30" selection-end-line="180" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Percolation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="137" column="21" selection-start-line="137" selection-start-column="21" selection-end-line="137" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/.lift/algs4.jar!/edu/princeton/cs/algs4/WeightedQuickUnionUF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="84" column="16" selection-start-line="84" selection-start-column="16" selection-end-line="84" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PercolationVisualizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="670">
+          <caret line="69" selection-start-line="69" selection-end-line="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InteractivePercolationVisualizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="670">
+          <caret line="56" column="13" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Algorithms, Part I</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>algs4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
