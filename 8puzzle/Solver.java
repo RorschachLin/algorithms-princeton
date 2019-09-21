@@ -5,22 +5,24 @@ import edu.princeton.cs.algs4.StdOut;
 import java.util.ArrayList;
 
 public class Solver {
-    private MinPQ<CompareBoard> minPQ;
+
     private CompareBoard resultCB;
 
     // find a solution to the initial board (using the A* algorithm)
     public Solver(Board initial) {
+
         if (initial == null) {
             throw new IllegalArgumentException();
         }
 
-        minPQ = new MinPQ<>();
+        MinPQ<CompareBoard> minPQ = new MinPQ<>();
         int moveCount = 0;
         minPQ.insert(new CompareBoard(initial, moveCount, null));
         while (!minPQ.isEmpty()) {
             CompareBoard currBoard = minPQ.delMin();
             if (currBoard.getBoard().isGoal()) {
                 resultCB = currBoard;
+                //StdOut.println(resultCB.getBoard().toString());
                 break;
             }
             Iterable<Board> neighbors = currBoard.getBoard().neighbors();
@@ -43,7 +45,7 @@ public class Solver {
 
         @Override
         public int compareTo(CompareBoard that) {
-            return this.board.manhattan() - that.board.manhattan();
+            return this.getPriority() - that.getPriority();
         }
 
         public Board getBoard() {
@@ -96,7 +98,7 @@ public class Solver {
             for (int j = 0; j < n; j++)
                 tiles[i][j] = in.readInt();
         Board initial = new Board(tiles);
-
+        //StdOut.println(initial.toString());
         // solve the puzzle
         Solver solver = new Solver(initial);
 
