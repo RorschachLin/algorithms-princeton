@@ -22,11 +22,13 @@ public class Solver {
             CompareBoard currBoard = minPQ.delMin();
             if (currBoard.getBoard().isGoal()) {
                 resultCB = currBoard;
-                //StdOut.println(resultCB.getBoard().toString());
                 break;
             }
             Iterable<Board> neighbors = currBoard.getBoard().neighbors();
             for (Board b : neighbors) {
+                if (currBoard.getPrev().getBoard().equals(b)) {
+                    continue;
+                }
                 minPQ.insert(new CompareBoard(b, currBoard.getMoves() + 1, currBoard));
             }
         }
