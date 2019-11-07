@@ -87,17 +87,7 @@ public class Board {
 
     // is this board the goal board?
     public boolean isGoal() {
-        for (int row = 0; row < dimension(); row++) {
-            for (int col = 0; col < dimension(); col++) {
-                if (allTiles[dimension() - 1][dimension() - 1] == 0) {
-                    continue;
-                }
-                if (allTiles[row][col] != (row * dimension() + col + 1)) {
-                    return false;
-                }
-            }
-        }
-        return true;
+        return hamming() == 0;
     }
 
     // does this board equal y?

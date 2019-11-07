@@ -19,17 +19,28 @@ public class Solver {
         int moveCount = 0;
         minPQ.insert(new CompareBoard(initial, moveCount, null));
         while (!minPQ.isEmpty()) {
-            CompareBoard currBoard = minPQ.delMin();
-            if (currBoard.getBoard().isGoal()) {
-                resultCB = currBoard;
+            CompareBoard currCompBoard = minPQ.delMin();
+            Board currBoard = currCompBoard.getBoard();
+            StdOut.println(currBoard.toString());
+            StdOut.println("priority=" + currCompBoard.getPriority());
+            StdOut.println("moves=" + currCompBoard.getMoves());
+            if (currBoard.isGoal()) {
+                resultCB = currCompBoard;
+                StdOut.println("result board:" + resultCB.getBoard().toString());
+                StdOut.println("isgoal" + resultCB.getBoard().isGoal());
                 break;
             }
-            Iterable<Board> neighbors = currBoard.getBoard().neighbors();
+
+            if (currBoard.hamming() == 2 && currBoard.twin().isGoal()) {
+                break;
+            }
+
+            Iterable<Board> neighbors = currBoard.neighbors();
             for (Board b : neighbors) {
-                if (currBoard.getPrev().getBoard().equals(b)) {
+                if (currCompBoard.getPrev() != null && b.equals(currCompBoard.getPrev().getBoard())) {
                     continue;
                 }
-                minPQ.insert(new CompareBoard(b, currBoard.getMoves() + 1, currBoard));
+                minPQ.insert(new CompareBoard(b, currCompBoard.getMoves() + 1, currCompBoard));
             }
         }
     }
@@ -80,6 +91,9 @@ public class Solver {
 
     // sequence of boards in a shortest solution
     public Iterable<Board> solution() {
+        if (!isSolvable()) {
+            return null;
+        }
         ArrayList<Board> result = new ArrayList<>();
         CompareBoard currBoard = resultCB;
         while (currBoard.getPrev() != null) {
@@ -100,7 +114,7 @@ public class Solver {
             for (int j = 0; j < n; j++)
                 tiles[i][j] = in.readInt();
         Board initial = new Board(tiles);
-        //StdOut.println(initial.toString());
+
         // solve the puzzle
         Solver solver = new Solver(initial);
 
